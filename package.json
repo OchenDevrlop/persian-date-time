@@ -1,6 +1,6 @@
 {
   "name": "persian-full-datetime",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A tool dor Persian Date & Time with Clean Output! (24H + 12H)",
   "main": "index.ts",
   "scripts": {
