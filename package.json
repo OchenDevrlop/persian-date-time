@@ -1,0 +1,27 @@
+{
+  "name": "persian-full-datetime",
+  "version": "1.0.0",
+  "description": "A tool dor Persian Date & Time with Clean Output! (24H + 12H)",
+  "main": "index.ts",
+  "scripts": {
+    "test": "let date = new PersianDate(true, '24H');"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/OchenDevrlop/persian-date-time.git"
+  },
+  "keywords": [
+    "persian",
+    "persiandatetime",
+    "persiantime",
+    "persiantime",
+    "irantime",
+    "12hourtime"
+  ],
+  "author": "Hossein Toluie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OchenDevrlop/persian-date-time/issues"
+  },
+  "homepage": "https://github.com/OchenDevrlop/persian-date-time#readme"
+}

@@ -115,8 +115,5 @@ var PersianDate = /** @class */ (function () {
     };
     return PersianDate;
 }());
-var date = new PersianDate(true, "24H");
-document.body.innerHTML =
-    date.fullDate +
-        "  " +
-        date.fullTime;
+
+export default PersianDate
